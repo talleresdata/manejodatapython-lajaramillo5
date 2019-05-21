@@ -1,7 +1,8 @@
-[
+﻿[
 {"nombres":"rené","apellidos":"elizalde"},
 {"nombres":"enrique","apellidos":"cueva"},
 {"nombres":"carlos","apellidos":"castillo", "edad":"edad12"},
 {"nombres":"pedro","apellidos":"salinas", "edad":"edad13"},
+{"nombres":"cristian","apellidos":"andrade", "edad":"edad14"},
 {"nombres":"cristian","apellidos":"andrade", "edad":"edad14"}
 ]

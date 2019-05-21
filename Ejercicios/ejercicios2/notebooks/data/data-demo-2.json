@@ -1,6 +1,6 @@
-[{"nombres":"rené","apellidos":"elizalde"},
-{"nombres":"enrique","apellidos":"cueva"},
-{"nombres":"carlos","apellidos":"castillo"},
-{"nombres":"pedro","apellidos":"salinas"},
-{"nombres":"cristian","apellidos":"andrade"}
+﻿[{"nombres":"rené","apellidos":"elizalde","cedula":"1719626754"},
+{"nombres":"enrique","apellidos":"cueva","cedula":"1719626754"},
+{"nombres":"carlos","apellidos":"castillo","cedula":"1719626754"},
+{"nombres":"pedro","apellidos":"salinas","cedula":"1719626754"},
+{"nombres":"cristian","apellidos":"andrade","cedula":"1719626754"}
 ]
